@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
+
+* {
+  font-family: "Poiret One", cursive;
+  font-weight: bold;
+}
+#logo {
+    display: initial;
+    font-weight: 600;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    color: #fd5c63;
+    text-shadow: 2px 5px 3px rgba(0, 0, 0, 0.06);
+    padding: 0;
+  }
+  .btn-style {
+    padding: 12px 25px;
+    border: none;
+    color: #ffff;
+    background-color: #b24949;
+    font-size: 15px;
+  }
